@@ -1,0 +1,138 @@
+﻿                                                                Supplementary Table S1. Description of dataset,,,,,
+,,,,,
+Complex PDB,Functional class,Protein A,Protein B,Experimental dG,Experimental Kd (M)
+1AHW_AB:C,Antigen-Antibody,Fab 5g9,Tissue factor,11.55,3.40E-09
+1BJ1_HL:VW,Antigen-Antibody,Fab - vEGF,vEGF,11.55,3.40E-09
+1BVK_DE:F,Antigen-Antibody,Fv Hulys11,HEW lysozyme,10.53,1.40E-08
+1DQJ_AB:C,Antigen-Antibody,Fab Hyhel63,HEW lysozyme,11.67,2.80E-09
+1E6J_HL:P,Antigen-Antibody,Fab 13B5,HIV-1 capsid protein p24,10.28,2.90E-08
+1FSK_BC:A,Antigen-Antibody,Fab - Birch pollen antigen Bet V1,Birch pollen antigen Bet V1,13.12,2.40E-10
+1JPS_HL:T,Antigen-Antibody,Fab D3H44,Tissue factor,13.64,1.00E-10
+1KXQ_H:A,Antigen-Antibody,Camel VHH - Pancreatic alpha-amylase,Pancreatic alpha-amylase,11.54,3.50E-09
+1NCA_HL:N,Antigen-Antibody,Fab - Flu virus neuraminidase N9,Flu virus neuraminidase N9,11.02,8.30E-09
+1P2C_AB:C,Antigen-Antibody,FabF10.6.6,HEW lysozyme,13.63,1.02E-10
+1VFB_AB:C,Antigen-Antibody,Fv D1.3,HEW lysozyme,11.46,3.70E-09
+1WEJ_HL:F,Antigen-Antibody,Fab E8,Cytochrome C,12.48,7.14E-10
+2I25_N:L,Antigen-Antibody,Shark single domain antigen receptor,HEW lysozyme,12.28,1.00E-09
+2JEL_HL:P,Antigen-Antibody,Fab Jel42 - HPr,HPr,11.59,2.80E-09
+2VIR_AB:C,Antigen-Antibody,Fab,Flu virus hemagglutinin,12.28,1.00E-09
+1ACB_E:I,Enzyme-Inhibitor,Chymotrypsin,Eglin C,13.05,2.00E-10
+1AVX_A:B,Enzyme-Inhibitor,Porcine trypsin,Soybean trypsin inhibitor,12.5,4.80E-10
+1BRS_A:D,Enzyme-Inhibitor,Barnase,Barstar,17.32,2.00E-13
+1BUH_A:B,Enzyme-Inhibitor,CDK2 kinase,Ckshs1,9.7,7.70E-08
+1BVN_P:T,Enzyme-Inhibitor,Alpha-amylase,Tendamistat,15.06,9.20E-12
+1DFJ_E:I,Enzyme-Inhibitor,Ribonuclease A,Rnase inhibitor,18.05,5.90E-14
+1EAW_A:B,Enzyme-Inhibitor,Matriptase,BPTI,14.06,4.97E-11
+1EMV_A:B,Enzyme-Inhibitor,Colicin E9 nuclease,Im9 immunity protein,18.58,2.40E-14
+1EZU_C:AB,Enzyme-Inhibitor,D102N Trypsin,Y69F D70P Ecotin,13.77,8.00E-11
+1F34_A:B,Enzyme-Inhibitor,Porcine pepsin,Ascaris inhibitor 3,14.19,1.00E-10
+1FLE_E:I,Enzyme-Inhibitor,Elastase,Elafin,12.28,1.00E-09
+1GXD_A:C,Enzyme-Inhibitor,ProMMP2 type IV collagenase,Metalloproteinase inhibitor 2,11.3,5.20E-09
+1JIW_P:I,Enzyme-Inhibitor,Alkaline metallo-proteinase,Proteinase inhibitor,15.55,4.00E-12
+1JTG_B:A,Enzyme-Inhibitor,beta-lactamase inhibitor protein,beta-lactamase TEM-1,12.82,4.00E-10
+1MAH_A:F,Enzyme-Inhibitor,Acetylcholinesterase,Fasciculin,14.51,2.50E-11
+1NB5_AP:I,Enzyme-Inhibitor,Cathepsin H,Stefin A,13.86,6.90E-11
+1OPH_A:B,Enzyme-Inhibitor,Alpha-1-antitrypsin,Trypsin,11.32,5.00E-09
+1PXV_A:C,Enzyme-Inhibitor,Staphylococcus aureus cystein protease,Cystein protease inhibitor,12.97,3.10E-10
+1R0R_E:I,Enzyme-Inhibitor,Subtilisin carlsberg,OMTKY,14.17,2.94E-11
+1YVB_A:I,Enzyme-Inhibitor,Falcipain 2,Cystatin,11.17,6.50E-09
+1ZLI_A:B,Enzyme-Inhibitor,Carboxypeptidase B,Tick carboxypeptidase inhibitor,12.04,1.30E-09
+2ABZ_B:E,Enzyme-Inhibitor,Carboxypeptidase A1,Leech carboxypeptidase inhibitor,11.67,2.80E-09
+2B42_A:B,Enzyme-Inhibitor,Xylanase,Xylanase inhibitor,12.11,1.07E-09
+2J0T_A:D,Enzyme-Inhibitor,MMP1 Intersitial collagenase,Metalloproteinase inhibitor 1,13.34,4.00E-10
+2O3B_A:B,Enzyme-Inhibitor,NucA nuclease,NuiA nuclease inhibitor,15.68,3.20E-12
+2OUL_A:B,Enzyme-Inhibitor,Falcipain 2,Chagasin,11.96,1.70E-09
+2PTC_E:I,Enzyme-Inhibitor,Trypsin,BPTI,18.04,6.00E-14
+2SIC_E:I,Enzyme-Inhibitor,Subtilisin,Streptomyces subtilisin inhibitor,13.84,7.12E-11
+2SNI_E:I,Enzyme-Inhibitor,Subtilisin,Chymotrypsin inhibitor 2,15.96,2.00E-12
+2UUY_A:B,Enzyme-Inhibitor,Trypsin,Tryptase inhibitor from tick,11.26,5.60E-09
+3SGB_E:I,Enzyme-Inhibitor,Streptogrisin B,Ovomucoid inhibitor third domain,14.51,1.79E-11
+1E6E_A:B,Other enzymes,Adrenoxin reductase,Adrenoxin,8.28,8.56E-07
+1EWY_A:C,Other enzymes,Ferredoxin reductase,Ferredoxin,7.43,3.57E-06
+1F6M_A:C,Other enzymes,Thioredoxin reductase,Thioredoxin 1,7.6,2.70E-06
+1GLA_G:F,Other enzymes,Glycerol Kinase,Glucose specific IIIGlc,6.76,1.10E-05
+1IJK_A:BC,Other enzymes,Von Willebrand Factor dom. A1,Botrocetin,10.42,2.30E-08
+1JMO_A:HL,Other enzymes,Heparin cofactor,Thrombin,9.47,1.15E-07
+1JWH_CD:A,Other enzymes,Casein kinase II beta chain,Casein kinase II alpha chain,11.14,1.26E-08
+1KKL_ABC:H,Other enzymes,HPr kinase C-ter domain,HPr,10.02,4.50E-08
+1M10_A:B,Other enzymes,Von Willebrand Factor dom. A1,Glycoprotein IB-alpha,11.24,5.80E-09
+1NW9_B:A,Other enzymes,Capase-9, BIR3 domain of XIAP (249-354),11.19,1.30E-08
+1OC0_A:B,Other enzymes,Plasminogen activator inhibitor-1,Vitronectin Somatomedin B domain,12.28,1.00E-09
+1R6Q_A:C,Other enzymes,Clp protease subunit ClpA,Clp protease adaptor protein ClpS,8.84,3.30E-07
+1US7_A:B,Other enzymes,Heat shock protein 82 N-ter domain,HSP90 co-chaperone CDC37 C-ter domain,8.09,1.46E-06
+1WDW_BD:A,Other enzymes,Tryptophan synthase beta chain 1,Tryptophan synthase alpha chain,12.72,2.50E-09
+1ZM4_A:B,Other enzymes,Elongation factor 2,Diphtheria toxin A catalytic domain,8.03,1.30E-06
+2A9K_A:B,Other enzymes,Ral-A.GDP,Mono-ADP-ribosyltransferase C3,10.25,6.00E-08
+2MTA_HL:A,Other enzymes,Methylamine dehydrogenase,Amicyanin,7.42,4.50E-06
+2OOB_A:B,Other enzymes,E3 ubiquitin-protein ligase CBL-B UBA domain,Ubiquitin,5.66,6.00E-05
+2OOR_AB:C,Other enzymes,NAD(P) transhydrogenase subunit alpha part 1,NAD(P) transhydrogenase subunit beta,10.65,1.55E-08
+2PCC_A:B,Other enzymes,Cyt C peroxidase,Cytochrome C,7.91,11148036
+1A2K_C:AB,G-protein containing,Ran GTPase-GDP,Nuclear transport factor 2,9.31,1.50E-07
+1E96_A:B,G-protein containing,Rac GTPase,p67 Phox,7.42,2.70E-06
+1FQJ_A:B,G-protein containing,Gt-alpha,RGS9,9.79,6.70E-08
+1GRN_A:B,G-protein containing,CDC42 GTPase,CDC42 GAP,9.03,2.39E-07
+1HE8_B:A,G-protein containing,Ras GTPase,PIP3 kinase,7.37,3.20E-06
+1I2M_A:B,G-protein containing,Ran GTPase-GDP,RCC1,15.83,2.50E-12
+1I4D_D:AB,G-protein containing,Rac GTPase,Arfaptin,7.46,3.00E-06
+1IBR_A:B,G-protein containing,Ran GTPase-GDP,Importin beta,12.07,1.00E-09
+1K5D_AB:C,G-protein containing,Ran GTPase,Ran GAP,12.77,3.00E-10
+1LFD_B:A,G-protein containing,Ras.GNP,RalGDS Ras-interacting domain,7.79,1.94E-06
+1NVU_Q:S,G-protein containing,Ras GTPase.GTP,Son of sevenless,7.43,3.60E-06
+1WQ1_R:G,G-protein containing,Ras GTPase.GDP,Ras GAP,6.62,1.70E-05
+1Z0K_A:B,G-protein containing,Rab4A GTPase.GNP,RAB4 binding domain of Rabenosyn,6.98,7.70E-06
+2FJU_B:A,G-protein containing,Phospholipase beta 2,Rac GTPase,7.2,5.30E-06
+3CPH_G:A,G-protein containing,Ras-related protein Sec4,Rab GDP-dissociation inhibitor,8.84,3.30E-07
+1NVU_R:S,G-protein containing,Ras GTPase.GTP,Son of sevenless,7.8,1.90E-06
+1E4K_AB:C,Receptor containing,FC fragment of human IgG 1,Human FCGR III,7.87,1.70E-06
+1EER_A:BC,Receptor containing,Erythropoietin,EPO receptor,15.59,3.70E-12
+1HCF_AB:X,Receptor containing,Neurotrophin-4,TrkB-d5 growth factor receptor,13.08,2.60E-10
+1KAC_A:B,Receptor containing,Adenovirus fiber knob protein,Adenovirus receptor,10.68,1.48E-08
+1KTZ_A:B,Receptor containing,TGF-beta,TGF-beta receptor,8.92,2.90E-07
+1PVH_A:B,Receptor containing,IL6 receptor beta chain D2-D3 domains,Leukemia inhibitory factor,9.52,8.00E-08
+1RV6_VW:X,Receptor containing,PIGF receptor binding domain,Flt1 protein domain 2,13.86,1.70E-10
+1T6B_X:Y,Receptor containing,Anthrax protective antigen,Anthrax toxin receptor,13.1,1.70E-10
+2AJF_A:E,Receptor containing,Angiotensin-converting enzyme 2,SARS spike protein receptor binding domain,10.63,1.62E-08
+2HLE_A:B,Receptor containing,Ephrin B4 receptor,Ephrin B2 ectodomain,10.09,4.00E-08
+2I9B_E:A,Receptor containing,Urokinase plasminogen activator surface receptor,Urokinase-type plasminogen activator,12.93,3.30E-10
+2NYZ_AB:D,Receptor containing,Viral chemokine binding p. M3,Chemokine XCL1,12.69,5.00E-10
+1MLC_AB:E,Non-cognate,Fab44.1,HEW lysozyme,9.61,9.10E-08
+2VIS_AB:C,Non-cognate,Fab,Flu virus hemagglutinin,7.36,4.00E-06
+1AY7_A:B,Non-cognate,Rnase SA,Barstar,13.23,2.00E-10
+1CBW_ABC:D,Non-cognate,Chymotrypsin,BPTI,10.75,1.10E-08
+2PCB_A:B,Non-cognate,Cyt C peroxidase,Cytochrome C,6.82,1.00E-05
+2TGP_Z:I,Non-cognate,Trypsinogen,BPTI,7.54,2.40E-06
+2WPT_A:B,Non-cognate,Colicin E9 nuclease,Im2 immunity protein,10.67,1.50E-08
+1AVZ_B:C,Non-cognate,HIV-1-NEF protein,Fyn kinase SH3 domain,6.55,1.58E-05
+2AQ3_A:B,Non-cognate,TCR Vbeta8.2,SEC3,6.71,1.20E-05
+1ATN_A:D,Miscellaneous1,Actin,Dnase I,12.07,2.00E-09
+1DE4_AB:CF,Miscellaneous1,Hemochromatosis protein HFE,Transferrin receptor ectodom.,9.78,6.80E-08
+1FC2_C:D,Miscellaneous1,Staphylococcus Protein A,Human Fc fragment,10.43,2.25E-08
+1H1V_A:G,Miscellaneous1,Actin,Gelsolin precursor C-term,10.2,2.50E-08
+1IB1_AB:E,Miscellaneous1,14-3-3 protein,Serotonin N-acteylase,9.76,2.00E-08
+1KLU_AB:D,Miscellaneous1,MHC class 2 HLA-DR1,Staphylococcus enterotoxin C3,7.28,4.60E-06
+1KXP_A:D,Miscellaneous1,Actin,Vitamin D binding protein,12.34,9.00E-10
+1XQS_A:C,Miscellaneous1,HspBP1,Hsp70 ATPase domain,7.08,6.50E-06
+2B4J_AB:C,Miscellaneous1,Integrase (HIV-1),PC4 and SFRS1 interacting protein,10.86,1.09E-08
+2C0L_A:B,Miscellaneous1,TRP region of PEX5,Sterol carrier protein 2,9.82,1.09E-07
+2VDB_A:B,Miscellaneous1,Serum albumin,Peptostreptococcalalbumin-binding protein,13.4,1.50E-10
+1AKJ_AB:DE,Miscellaneous2,MHC class 1 HLA-A2,T-cell CD8 coreceptor,5.32,0.000126
+1MQ8_A:B,Miscellaneous2,ICAM-1 domain 1-2,Integrin alpha-L I domain,7.53,3.00E-06
+1RLB_ABCD:E,Miscellaneous2,Transthyretin,Retinol binding protein,8.18,8.00E-07
+1XD3_A:B,Miscellaneous2,UCH-L3,Ubiquitin,8.9,3.00E-07
+1ZHI_A:B,Miscellaneous2,BAH domain of Orc1,Sir Orc-interaction domain,9.08,2.00E-07
+2BTF_A:P,Miscellaneous2,Actin,Profilin,7.69,2.30E-06
+2HQS_A:H,Miscellaneous2,TolB,Pal,10.15,2.70E-08
+2HRK_A:B,Miscellaneous2,Glutamyl-t-RNA synthetase,GU-4 nucleic binding protein,10.98,9.00E-09
+2OZA_B:A,Miscellaneous2,MAP kinase 14,MAP kinase-activated protein kinase 2,11.73,2.50E-09
+3BP8_AB:C,Miscellaneous2,Mlc transcription regulator,PTS glucose-specific enzyme EIICB,11.44,4.14E-09
+1AK4_A:D,Miscellaneous3,Cyclophilin,HIV capsid,6.43,1.60E-05
+1B6C_A:B,Miscellaneous3,FKBP binding protein,TGFbeta receptor,8.94,2.80E-07
+1EFN_B:A,Miscellaneous3,HIV-1-NEF protein,Fyn kinase SH3 domain,10.12,3.80E-08
+1FFW_A:B,Miscellaneous3,Chemotaxis protein CheY,Chemotaxis protein CheA,8.09,1.35E-06
+1GCQ_B:C,Miscellaneous3,GRB2 C-ter SH3 domain,Vav N-ter SH3 domain,6.51,1.70E-05
+1GPW_A:B,Miscellaneous3,HISF protein,Amidotransferase HISH,11.32,5.00E-09
+1H9D_A:B,Miscellaneous3,Runx1 domain of CBFalpha1,Dimerisation domain of CBF-beta,9.18,4.50E-08
+1QA9_A:B,Miscellaneous3,CD2,CD58,7.16,9.00E-06
+1S1Q_A:B,Miscellaneous3,UEV domain,Ubiquitin,4.29,0.000635
+2GOX_A:B,Miscellaneous3,Complement C3d fragment,Staphylococcus aureus Efb-C,12.08,1.40E-09
+3BZD_A:B,Miscellaneous3,TCR Vbeta8.2,SEC3-1A4,9.57,9.60E-08
