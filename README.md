@@ -8,6 +8,14 @@ This files clean and extract information from three databases:
 
 The **sequencing data** of each proteins were extracted in `.seq.txt`, **binding affinity** of protein complex were extracted in `.dg.txt`. All the results are stored in `result` folder.
 
+coding files:
+
+1. skempi: 
+   1. using uniprot and pdb files: `skempi_uniprot.ipynb`
+   2. using only pdb files (the sequencing extracted from pdb and uniprot are slightly different): `skempi_uniprot2.ipynb`
+2. affinity bench: `affintyv2_s.ipynb`
+3. PBDbind: `pdbbind_s.ipynb`
+
 ### Overall 
 
 | database          | number                              | note                                                  | files                                                        |
